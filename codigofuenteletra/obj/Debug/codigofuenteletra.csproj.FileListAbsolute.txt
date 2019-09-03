@@ -1,0 +1,10 @@
+D:\codigofuenteletra\codigofuenteletra\bin\Debug\codigofuenteletra.exe.config
+D:\codigofuenteletra\codigofuenteletra\bin\Debug\codigofuenteletra.exe
+D:\codigofuenteletra\codigofuenteletra\bin\Debug\codigofuenteletra.pdb
+D:\codigofuenteletra\codigofuenteletra\obj\Debug\codigofuenteletra.csprojAssemblyReference.cache
+D:\codigofuenteletra\codigofuenteletra\obj\Debug\codigofuenteletra.programa.resources
+D:\codigofuenteletra\codigofuenteletra\obj\Debug\codigofuenteletra.Properties.Resources.resources
+D:\codigofuenteletra\codigofuenteletra\obj\Debug\codigofuenteletra.csproj.GenerateResource.cache
+D:\codigofuenteletra\codigofuenteletra\obj\Debug\codigofuenteletra.csproj.CoreCompileInputs.cache
+D:\codigofuenteletra\codigofuenteletra\obj\Debug\codigofuenteletra.exe
+D:\codigofuenteletra\codigofuenteletra\obj\Debug\codigofuenteletra.pdb
